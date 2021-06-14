@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1007148909898",
+    "firebase_url": "https://test-1f40a.firebaseio.com",
+    "project_id": "test-1f40a",
+    "storage_bucket": "test-1f40a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007148909898:android:ec05085cc059507cc36db3",
+        "android_client_info": {
+          "package_name": "com.capstone.maps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007148909898-1q2hm5s44h821k35ca0n3d75a3fu1s8k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.capstone.maps",
+            "certificate_hash": "94cd907ad2ca5b01d134c655884bb37ee3c4bb2b"
+          }
+        },
+        {
+          "client_id": "1007148909898-9omom30b6la453ji2mdogo0ncf4qcdrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2GS1IHF-NUtB6gMe8BCWbu36bow2iHJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007148909898-9omom30b6la453ji2mdogo0ncf4qcdrv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
